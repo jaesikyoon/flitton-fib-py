@@ -1,9 +1,10 @@
 from setuptools import find_packages, setup
 
 
-with open("README.md", "r") as fh:
-    long_description = fh.read()
-
+#with open("README.md", "r") as fh:
+#    long_description = fh.read()
+#jsyoon
+long_description = ""
 
 setup(
     name="flitton_fib_py",
